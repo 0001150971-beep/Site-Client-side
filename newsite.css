@@ -148,7 +148,7 @@ body {
 }
 
 h1 {
-    color: #8b0000;
+    color: #000000;
     text-align: center;
 }
 
@@ -270,7 +270,7 @@ nav ul li a:hover {
 /* ===== TÍTULOS ===== */
 h1 {
     text-align: center;
-    color: #b71c1c; /* vermelho bonito */
+    color: #000000; /* vermelho bonito */
 }
 
 h2 {
